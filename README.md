@@ -95,7 +95,3 @@ blinkit-sales-analysis/
 │   └── dashboard_preview.png         # Dashboard screenshot
 └── README.md
 ```
-
-### Dashboard Preview
-
-![BlinkIT Sales Dashboard](images/dashboard_preview.png)
